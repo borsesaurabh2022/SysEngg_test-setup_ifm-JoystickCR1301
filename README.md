@@ -12,10 +12,10 @@
 
 ## Further information about the Project can be found under the following links: 
   ### Requirement documents:
-  Functional (Use-Case diagram, Sequence Diagram, Activity Diagram, State machine) and Non Functional requirements for the project can be found [here ](https://github.com/borsesaurabh2022/SysEngg_test-setup_ifm-JoystickCR1301/tree/main/Project_Documentation))
+  Functional (Use-Case diagram, Sequence Diagram, Activity Diagram, State machine) and Non Functional requirements for the project can be found [here ](https://github.com/borsesaurabh2022/SysEngg_test-setup_ifm-JoystickCR1301/tree/main/Project_Documentation)
 
   ### Presentations
-  A final presentation with demonstration videos and highlights of the project can be referred [here ](https://git.fh-aachen.de/rv7515s/JoystickCAN/-/blob/master/Rohan_Borse_Presentation.pptx)
+  A final presentation with demonstration videos and highlights of the project can be referred [here ](https://github.com/borsesaurabh2022/SysEngg_test-setup_ifm-JoystickCR1301/tree/main/Demonstation_videos)
 
   ### Source Code and Libraries
   SRC: The directory consists of the main source code of the project 
