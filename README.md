@@ -24,5 +24,5 @@
   Demonstration_video: The directory consists of videos demonstrating the different modes
 
   ## Authors
-  • Rohan Vishwakarma 
-  • Saurabh Borse 
+    • Rohan Vishwakarma 
+    • Saurabh Borse 
