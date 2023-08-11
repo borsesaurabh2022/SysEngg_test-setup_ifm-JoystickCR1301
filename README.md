@@ -12,17 +12,17 @@
 
 ## Further information about the Project can be found under the following links: 
   ### Requirement documents:
-    Functional (Use-Case diagram, Sequence Diagram, Activity Diagram, State machine) and Non Functional requirements for the project can be found [here ](https://git.fh-aachen.de/rv7515s/JoystickCAN/-/blob/master/Requirement_document.pdf)
+  Functional (Use-Case diagram, Sequence Diagram, Activity Diagram, State machine) and Non Functional requirements for the project can be found [here ](https://git.fh-aachen.de/rv7515s/JoystickCAN/-/blob/master/Requirement_document.pdf)
 
   ### Presentations
-    A final presentation with demonstration videos and highlights of the project can be referred [here ](https://git.fh-aachen.de/rv7515s/JoystickCAN/-/blob/master/Rohan_Borse_Presentation.pptx)
+  A final presentation with demonstration videos and highlights of the project can be referred [here ](https://git.fh-aachen.de/rv7515s/JoystickCAN/-/blob/master/Rohan_Borse_Presentation.pptx)
 
   ### Source Code and Libraries
-    SRC: The directory consists of the main source code of the project 
-    Lib: The directory consists of Relevant libraries 
-    Project_Documentation: The directory consists of project requirement documentation and the final presentation 
-    Demonstration_video: The directory consists of videos demonstrating the different modes
+  SRC: The directory consists of the main source code of the project 
+  Lib: The directory consists of Relevant libraries 
+  Project_Documentation: The directory consists of project requirement documentation and the final presentation 
+  Demonstration_video: The directory consists of videos demonstrating the different modes
 
   ## Authors
-    • Rohan Vishwakarma 
-    • Saurabh Borse 
+  • Rohan Vishwakarma 
+  • Saurabh Borse 
